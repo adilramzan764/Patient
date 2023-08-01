@@ -17,7 +17,7 @@ class _FavoritePharmacyState extends State<FavoritePharmacy> {
   Widget build(BuildContext context) {
     return  Scaffold(
 body: Column( children: [
-  SizedBox(height: 60,),
+
   Padding(
     padding: const EdgeInsets.only(left: 20,right: 100),
     child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween,
